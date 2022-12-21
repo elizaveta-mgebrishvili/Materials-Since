@@ -1,4 +1,4 @@
 # Лабораторные работы по материаловедению
 ## Баженова Ирина Александровна
-1. Mgebrishvili_lab1.ipynb -- первое задание
-2. Mgebrishvili_lab1.ipynb -- первое задание
+1. Mgebrishvili_lab1.ipynb 
+2. Mgebrishvili_lab1.ipynb
